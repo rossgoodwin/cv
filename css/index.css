@@ -42,7 +42,7 @@ p.job-title {
 #page-container {
 	width: 850px;
 	margin: 0 auto;
-	padding: 25px;
+	padding: 25px 25px 10px 25px;
 	/*border: 1px solid #333;*/
 }
 
@@ -98,6 +98,7 @@ div.left-side {
 	/*left: 0;*/
 	float: left;
 	margin-bottom: 75px;
+	margin-top: 25px;
 }
 
 div.right-side {
@@ -108,5 +109,6 @@ div.right-side {
 	padding-left: 15px;
 	border-left: 1px solid #333;
 	margin-bottom: 75px;
+	margin-top: 20px;
 
 }
