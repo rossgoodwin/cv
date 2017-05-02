@@ -4,7 +4,6 @@ body {
 	color: #333;
 }
 
-a {
 	text-decoration: none;
 	color: #333;
 }
@@ -15,16 +14,16 @@ h1 {
 }
 
 h2 {
-	border-bottom: 1px solid #333;
+	border-bottom: 4px solid #333;
 }
 
 h3 {
-	border-bottom: 1px dotted #777;
+	border-bottom: 2px dotted #777;
 	margin-left: 10px;
 }
 
 h4 {
-	border-bottom: 1px solid #ccc;
+	border-bottom: 2px solid #ccc;
 	margin-left: 20px;
 }
 
