@@ -52,6 +52,10 @@ ul {
 	width: 82%;
 }
 
+div.bio-div p {
+	text-align: justify;
+}
+
 p.top-stuff {
 	/*width: 600px;*/
 	text-align: center;
